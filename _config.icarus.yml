@@ -118,7 +118,7 @@ navbar:
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2023
+    copyright: 知识产权归Lenovo Inc.所有，请勿转载。
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
