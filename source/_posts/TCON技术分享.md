@@ -1,3 +1,17 @@
+---
+title: TCON+ 技术分享
+date: 2023/1/6 14:00:00
+author: 李海波
+comments: true
+tags: 
+- TCON
+- Display
+- Intel
+- PCB
+categories: 
+- 技术分享
+---
+
 # TCON+ 技术分享
 
 ## TCON介绍
